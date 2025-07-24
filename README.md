@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyayusuf&label=Profile%20views&color=0e75b6&style=flat" alt="mdyayusuf" /> </p>
 
-- 🌱 I’m currently learning **C#, React**
+- 🌱 I’m currently learning **React, Typescript**
 
-- 💬 Ask me about **Html5, Css3, Bootstrap, C#, Javascript**
+- 💬 Ask me about **Html5, Css3, Bootstrap, C#, Javascript, .NET**
 
 - 📫 How to reach me **myusufunpostakutusu@gmail.com**
 
