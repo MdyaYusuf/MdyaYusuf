@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **.NET, C#, Html5, Css3, Javascript, React, Typescript**
+- 💬 Ask me about **.NET, C#, Html5, Css3, Javascript, Typescript, React**
 
 - 📫 How to reach me **myusufunpostakutusu@gmail.com**
 
